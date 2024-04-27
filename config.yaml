@@ -1,0 +1,45 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    akshaykrishna012:
+      email: akshaykrishna.a.2002@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: AKSHAY KRISHNA A
+      password: $2b$12$ZoTz2VyJB1D.9b42Uapi6u6/plT0zcfceabDllJWHLZ5d02s5zElW
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$X561Gsg9Dcl2mtm1Hg2JrOKOjjGjX9lu2we3nhYgmi0R2/zI.uJ4q
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$uHUu66ZzMngmSWhDt/jEReDF3w61U/l0Wiz8dvhcMyku4hyaRf10u
+    reshma:
+      email: reshma.sics@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: reshma
+      password: $2b$12$2BwnD9xFu.9DtOG4nySfrOQieL43TFhofd/SnnLdOsIiapoYG1hxO
+    reshma123:
+      email: reshma@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Reshma123
+      password: $2b$12$yPfH..KxfG.MDkDHsUSKq.vL4t.2LH1nscuJ7KwY90OLNHo3WS8Fu
+    shafi:
+      email: shihabameen386@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Reshma123
+      password: $2b$12$LbyPyjHyzuYtHg/Jdsrs8uiUyIc2T6z4We8bac6TAiizZiBdathA2
+preauthorized:
+  emails:
+  - melsby@gmail.com
